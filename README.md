@@ -1,24 +1,25 @@
-<h3 align="center">Hi there 👋,I'm gxp ! </h3>
-
+<img width="80" height="80" src="./images//fa9d-ixeeirz8608183.gif" alt="未来初音" />
 <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=GB18030+Bitmap&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=false&random=false&width=600&lines=printf(%22Hello+World!%22);%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%8910%E7%A7%8D%E4%BA%BA%EF%BC%9A%E4%B8%80%E7%A7%8D%E6%98%AF%E6%87%82%E5%BE%97%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%9A%84%EF%BC%8C%E5%8F%A6%E4%B8%80%E7%A7%8D%E6%98%AF%E4%B8%8D%E6%87%82%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%9A%84%E3%80%82" alt="Typing SVG" />
+  Welcome!👏 Nice to meet you ~ 😊 
 </h1>
-<div align="center">
+
+<div align="center" height="300">
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=GB18030+Bitmap&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=false&random=false&width=700&lines=printf(%22Hello+World!%22);%E8%A1%8C%E6%AD%A2%E6%81%B0%E5%A6%82%E5%85%B6%E5%88%86%EF%BC%8C%E4%B8%8D%E8%87%B3%E5%A4%A9%E9%A9%AC%E8%A1%8C%E7%A9%BA%E8%80%8C%E9%81%97%E4%B8%96%E7%8B%AC%E7%AB%8B%EF%BC%8C%E4%BA%A6%E4%B8%8D%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84%E8%80%8C%E5%9B%BA%E6%AD%A5%E8%87%AA%E5%B0%81%E3%80%82" alt="Typing SVG" />
+</div>
+
+<h3 align="center"> 🐳 I'm A front-end developer eager to acquire endless knowledge :P</h3>
+
+<h2 align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Static Badge" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Static Badge" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=Javascript&logoColor=F8FF25" alt="Static Badge" />
   <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=Typescript&logoColor=white" alt="Static Badge" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/NodeJs-%23026e00?logo=Nodedotjs">
+  <img src="https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" alt="Static Badge" />
   <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react" alt="Static Badge" />
   <img src="https://img.shields.io/badge/Prettier-1D2A32?style=flat-square&logo=prettier" alt="Static Badge" />
-  <img src="https://img.shields.io/badge/ESlint-4b32c3?style=flat-square&logo=eslint" alt="Static Badge" />
-</div>
-
-- 🔭 I’m currently working on Vue、React development 
-- 👯 My interests are very diverse, and I hope we can become like-minded people 
-- 💬 If you have any interesting experiences, you can share them with me 
-- 🤔 If you encounter any problems, you can tell me and I will do my best to help you 
-- 🌱 I hope to have a lot of skills and be willing to immerse myself in the ocean of knowledge 
-- 📫 How to reach me:3098211766@qq.com 
+  <img src="https://img.shields.io/badge/ESlint-4b32c3.svg?style=flat-square&logo=eslint" alt="Static Badge" />
+</h2>
 
 <!--
 **MysteryCosmic/MysteryCosmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,8 +36,77 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
+                                                                                                                                                                                神兽护体🛡️
+
+                                                                                                                                                    11111111111111111111111111111111111111001111111111111111111111111
+                                                                                                                                                    11111111111111111111111111111111111100011111111111111111111111111
+                                                                                                                                                    11111111111111111111111111111111100001111111111111111111111111111
+                                                                                                                                                    11111111111111111111111111111110000111111111111111111111111111111
+                                                                                                                                                    11111111111111111111111111111000000111111111111111111111111111111
+                                                                                                                                                    11111111111111111111111111100000011110001100000000000000011111111
+                                                                                                                                                    11111111111111111100000000000000000000000000000000011111111111111
+                                                                                                                                                    11111111111111110111000000000000000000000000000011111111111111111
+                                                                                                                                                    11111111111111111111111000000000000000000000000000000000111111111
+                                                                                                                                                    11111111111111111110000000000000000000000000000000111111111111111
+                      d*##$.                                                                                                                        11111111111111111100011100000000000000000000000000000111111111111
+ zP"""""$e.           $"    $o                                                                                                                      11111111111111100000110000000000011000000000000000000011111111111
+4$       '$          $"      $                                                                                                                      11111111111111000000000000000100111100000000000001100000111111111
+'$        '$        J$       $F                                                                                                                     11111111110000000000000000001110111110000000000000111000011111111
+ 'b        $k       $>       $                                                                                                                      11111111000000000000000000011111111100000000000000011110001111111
+  $k        $r     J$       d$                                                                                                                      11111110000000011111111111111111111100000000000000001111100111111
+  '$         $     $"       $~                                                               写字楼里写字间,写字间里程序员;                              11111111000001111111111111111111110000000000000000001111111111111
+   '$        "$   '$E       $                                                                                                                       11111111110111111111111111111100000000000000000000000111111111111
+    $         $L   $"      $F ...                                                            程序人员写程序,又拿程序换酒钱.                              11111111111111110000000000000000000000000000000000000111111111111
+     $.       4B   $      $$$*"""*b                                                                                                                 11111111111111111100000000000000000000000000001100000111111111111
+     '$        $.  $$     $$      $F                                                         酒醒只在网上坐,酒醉还来网下眠;                              11111111111111000000000000000000000000000000111100000111111111111
+      "$       R$  $F     $"      $                                                                                                                 11111111111000000000000000000000000000000001111110000111111111111
+       $k      ?$ u*     dF      .$                                                          酒醉酒醒日复日,网上网下年复年.                              11111111100000000000000000000000000000001111111110000111111111111
+       ^$.      $$"     z$      u$$$$e                                                                                                              11111110000000000000000000000000000000111111111110000111111111111
+        #$b             $E.dW@e$"    ?$                                                      但愿老死电脑间,不愿鞠躬老板前;                              11111100000000000000000001110000001111111111111110001111111111111
+         #$           .o$$# d$$$$c    ?F                                                                                                            11111000000000000000011111111111111111111111111110011111111111111
+          $      .d$$#" . zo$>   #$r .uF                                                     奔驰宝马贵者趣,公交自行程序员.                              11110000000000000001111111111111111100111111111111111111111111111
+          $L .u$*"      $&$$$k   .$$d$$F                                                                                                            11100000000000000011111111111111111111100001111111111111111111111
+           $$"            ""^"$$$P"$P9$                                                      别人笑我忒疯癫,我笑自己命太贱;                              11100000000001000111111111111111111111111000001111111111111111111
+          JP              .o$$$$u:$P $$                                                                                                             11000000000001100111111111111111111111111110000000111111111111111
+          $          ..ue$"      ""  $"                                                      不见满街漂亮妹,哪个归得程序员?                              11000000000000111011111111111100011111000011100000001111111111111
+         d$          $F              $                                                                                                              11000000000000011111111111111111000111110000000000000011111111111
+         $$     ....udE             4B                                                                                                              11000000000000000011111111111111000000000000000000000000111111111
+          #$    """"` $r            @$                                                                                                              11001000000000000000001111111110000000000000000000000000001111111
+           ^$L        '$            $F                                                                                                              11100110000000000001111111110000000000000000111000000000000111111
+             RN        4N           $                                                                                                               11110110000000000000000000000000000000000111111111110000000011111
+              *$b                  d$                                                                                                               11111110000000000000000000000000000000001111111111111100000001111
+               $$k                 $F                                                                                                               11111110000010000000000000000001100000000111011111111110000001111
+               $$b                $F                                                                                                                11111111000111110000000000000111110000000000111111111110110000111
+                 $""               $F                                                                                                               11111110001111111100010000000001111100000111111111111111110000111
+                 '$                $                                                                                                                11111110001111111111111110000000111111100000000111111111111000111
+                  $L               $                                                                                                                11111111001111111111111111111000000111111111111111111111111100011
+                  '$               $                                                                                                                11111111101111111111111111111110000111111111111111111111111001111
+                   $               $                                                                                                                11111111111111111111111111111110001111111111111111111111100111111
+                                                                                                                                                    11111111111111111111111111111111001111111111111111111111001111111
+                                                                                                                                                    11111111111111111111111111111111100111111111111111111111111111111
+                                                                                                                                                    11111111111111111111111111111111110111111111111111111111111111111
+
+                                                                                                                                                                                永无BUG🐛                      
+```
+
 <div align="center">
   <img src="https://blog-static.cnblogs.com/files/blogs/688934/%E5%8D%9A%E5%AE%A2%E5%BA%95%E9%83%A8%E5%9B%BE%E7%89%87.gif" alt="小鲨鱼" />
 </div>
 
-<h1 align="center">END</h1>
+<div align="center">
+  <p>江城子 · 程序员之歌</p>
+  <p>十年生死两茫茫，写程序，到天亮。</p>
+  <p>千行代码，Bug何处藏。</p>
+  <p>纵使上线又怎样，朝令改，夕断肠。</p>
+  <p>领导每天新想法，天天改，日日忙。</p>
+  <p>相顾无言，惟有泪千行。</p>
+  <p>每晚灯火阑珊处，夜难寐，加班狂。</p>          
+  <p>···</p>
+</div>
+
+<h1 align="center">
+  <p>END</p>
+</h1>
+
+<img width="80" height="80" src="./images//79a1ae5a42dc70210842945865a1e7e8225d84c617930b-OH0x43_fw658.webp" align='right' alt="未来初音" />
